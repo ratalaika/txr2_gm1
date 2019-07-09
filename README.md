@@ -4,6 +4,7 @@ Pretty much fixed all Game Maker 2.0 specific code like [] to define arrays and 
 Includes a minor addition of txr_room_pack to load instance specific creation code when loading rooms.
 
 You also need to define a few macros:
+
 txr_error global.txr_error_val
 txr_parse_tokens global.txr_parse_tokens_val
 txr_build_list global.txr_build_list_val
